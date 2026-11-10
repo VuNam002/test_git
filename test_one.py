@@ -2,5 +2,5 @@ a = 1
 b = 2
 d 
 c= a+b
-dadada  adadggggsss
+dadada  adadggggsssss
 print(c)m  
